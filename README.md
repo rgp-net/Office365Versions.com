@@ -231,7 +231,7 @@ Read our full [Privacy Policy](https://www.office365versions.com/Privacy) for de
 
 - 📧 **General inquiries:** info@office365versions.com
 - 🔒 **Privacy questions:** privacy@officeversions.com
-- 🐛 **Bug reports:** [GitHub Issues](https://github.com/robgrame/Office365Versions.com/issues)
+- 🐛 **Bug reports:** [GitHub Issues](https://github.com/rgp-net/Office365Versions.com/issues)
 
 ---
 
@@ -298,3 +298,4 @@ If you find this tool helpful:
 *Last updated: 2026*
 
 </div>
+
